@@ -1,5 +1,7 @@
 # Thanh Bui Minh's First CS193 Homework
 ## Welcome to GitHub Pages
+- Friendly instructors
+- Helpful skills
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,8 +28,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-- Friendly instructors
-- Helpful skills
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
